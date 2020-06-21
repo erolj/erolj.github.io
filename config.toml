@@ -1,0 +1,11 @@
+baseURL = "/"
+title = "Erol"
+assetDir = "assets"
+publishDir = "docs"
+disableKinds = [
+    "taxonomy", 
+    "taxonomyTerm"
+    ]
+
+[params]
+    languageCode = "id"
